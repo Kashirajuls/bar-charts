@@ -15,3 +15,5 @@ window.onload = function() {
 		currX += width + 10;
 	}
 };
+
+/*will be honest it took me 60 minutes*/
